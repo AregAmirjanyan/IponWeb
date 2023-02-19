@@ -1,2 +1,4 @@
 media/
 store/polls/migrations
+.DS_Store/
+store/.DS_Store
